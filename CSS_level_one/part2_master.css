@@ -1,0 +1,26 @@
+body{
+    background: url(https://thumbs.dreamstime.com/b/sunrise-over-beach-cancun-beautiful-mexico-40065727.jpg);
+    background-size: 1000px;
+
+div{
+    background: yellow;
+    border-color: blue;
+    border-width: 2px;
+    border-style: dotted;
+
+}
+p{
+    color: red;
+    background-color: yellow;
+ 
+}
+
+div{
+    p{
+        color: blue;
+    }
+}
+
+span{
+    color: black;
+}
