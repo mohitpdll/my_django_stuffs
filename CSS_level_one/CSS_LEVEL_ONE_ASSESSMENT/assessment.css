@@ -1,0 +1,57 @@
+body{
+    background-color: #74c6fc;
+}
+
+h1{
+    border :black solid 2px ;
+}
+
+h2{
+    color:purple;
+
+}
+
+.firstpara{
+    background-color: yellow;
+}
+
+#itemone{
+    text-decoration:overline;
+    color:purple;
+}
+
+a{
+    color:red;
+}
+
+#textarea{
+    border:gray solid 5px;
+    width:800px;
+    height:400px;
+
+}
+
+.exit{
+    border:yellow dashed 4px;
+    background-color: blue;
+    width: 850px;
+    height:150px;
+}
+
+#input{
+    border:red solid 2px
+}
+
+#textarea2{
+    border:gray solid 4px;
+    width: 300px;
+    height:70px
+}
+
+a:visited{
+    color:blue;
+}
+
+#secondpara{
+    background-color: yellow;
+}
