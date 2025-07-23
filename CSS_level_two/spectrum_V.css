@@ -1,0 +1,53 @@
+#top{
+    font-family: "Saira Stencil One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+  
+} 
+h1{
+  text-align: center;
+}
+
+body{
+  background-color: lightgray;
+}
+
+td{
+  background-color: black;
+  height:400px;
+  width:150px;
+  border:6px solid lightgrey;
+
+}
+
+table{
+  margin:auto;
+}
+
+#one{
+  background-color: #000814;
+}
+
+#two{
+  background-color: #001D3D;
+}
+
+#three{
+  background-color:#003566 ;
+}
+
+#four{
+  background-color: #FFC300;
+}
+
+#five{
+  background-color: #FFD60A;
+}
+
+.topfirst{
+    font-family: "Saira Stencil One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
